@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5ED68F452B8B0F5500FA667C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5ED68F442B8B0F5500FA667C /* main.cpp */; };
+		5ED68F552B8B146800FA667C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5ED68F542B8B146800FA667C /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		5ED68F3F2B8B0F5500FA667C /* CopyFiles */ = {
+		5ED68F502B8B146800FA667C /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		5ED68F412B8B0F5500FA667C /* PracticeCodeProblems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PracticeCodeProblems; sourceTree = BUILT_PRODUCTS_DIR; };
-		5ED68F442B8B0F5500FA667C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5E23334C2B8B185000F68271 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; name = .gitignore; path = LongestSubstringWord/.gitignore; sourceTree = "<group>"; };
+		5ED68F522B8B146800FA667C /* LongestSubstringWord */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LongestSubstringWord; sourceTree = BUILT_PRODUCTS_DIR; };
+		5ED68F542B8B146800FA667C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5ED68F3E2B8B0F5500FA667C /* Frameworks */ = {
+		5ED68F4F2B8B146800FA667C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,7 +42,8 @@
 		5ED68F382B8B0F5500FA667C = {
 			isa = PBXGroup;
 			children = (
-				5ED68F432B8B0F5500FA667C /* PracticeCodeProblems */,
+				5E23334C2B8B185000F68271 /* .gitignore */,
+				5ED68F532B8B146800FA667C /* LongestSubstringWord */,
 				5ED68F422B8B0F5500FA667C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,37 +51,37 @@
 		5ED68F422B8B0F5500FA667C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5ED68F412B8B0F5500FA667C /* PracticeCodeProblems */,
+				5ED68F522B8B146800FA667C /* LongestSubstringWord */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5ED68F432B8B0F5500FA667C /* PracticeCodeProblems */ = {
+		5ED68F532B8B146800FA667C /* LongestSubstringWord */ = {
 			isa = PBXGroup;
 			children = (
-				5ED68F442B8B0F5500FA667C /* main.cpp */,
+				5ED68F542B8B146800FA667C /* main.cpp */,
 			);
-			path = PracticeCodeProblems;
+			path = LongestSubstringWord;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5ED68F402B8B0F5500FA667C /* PracticeCodeProblems */ = {
+		5ED68F512B8B146800FA667C /* LongestSubstringWord */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5ED68F482B8B0F5500FA667C /* Build configuration list for PBXNativeTarget "PracticeCodeProblems" */;
+			buildConfigurationList = 5ED68F562B8B146800FA667C /* Build configuration list for PBXNativeTarget "LongestSubstringWord" */;
 			buildPhases = (
-				5ED68F3D2B8B0F5500FA667C /* Sources */,
-				5ED68F3E2B8B0F5500FA667C /* Frameworks */,
-				5ED68F3F2B8B0F5500FA667C /* CopyFiles */,
+				5ED68F4E2B8B146800FA667C /* Sources */,
+				5ED68F4F2B8B146800FA667C /* Frameworks */,
+				5ED68F502B8B146800FA667C /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = PracticeCodeProblems;
-			productName = PracticeCodeProblems;
-			productReference = 5ED68F412B8B0F5500FA667C /* PracticeCodeProblems */;
+			name = LongestSubstringWord;
+			productName = LongestSubstringWord;
+			productReference = 5ED68F522B8B146800FA667C /* LongestSubstringWord */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -91,7 +93,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					5ED68F402B8B0F5500FA667C = {
+					5ED68F512B8B146800FA667C = {
 						CreatedOnToolsVersion = 15.2;
 					};
 				};
@@ -109,17 +111,17 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5ED68F402B8B0F5500FA667C /* PracticeCodeProblems */,
+				5ED68F512B8B146800FA667C /* LongestSubstringWord */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5ED68F3D2B8B0F5500FA667C /* Sources */ = {
+		5ED68F4E2B8B146800FA667C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5ED68F452B8B0F5500FA667C /* main.cpp in Sources */,
+				5ED68F552B8B146800FA667C /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,7 +243,7 @@
 			};
 			name = Release;
 		};
-		5ED68F492B8B0F5500FA667C /* Debug */ = {
+		5ED68F572B8B146800FA667C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -249,7 +251,7 @@
 			};
 			name = Debug;
 		};
-		5ED68F4A2B8B0F5500FA667C /* Release */ = {
+		5ED68F582B8B146800FA667C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -269,11 +271,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5ED68F482B8B0F5500FA667C /* Build configuration list for PBXNativeTarget "PracticeCodeProblems" */ = {
+		5ED68F562B8B146800FA667C /* Build configuration list for PBXNativeTarget "LongestSubstringWord" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5ED68F492B8B0F5500FA667C /* Debug */,
-				5ED68F4A2B8B0F5500FA667C /* Release */,
+				5ED68F572B8B146800FA667C /* Debug */,
+				5ED68F582B8B146800FA667C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
