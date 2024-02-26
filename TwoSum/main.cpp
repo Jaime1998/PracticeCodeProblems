@@ -14,14 +14,13 @@ std::vector<int> twoSum(std::vector<int>& nums, int target) {
     for(int i=0; i<nums.size(); i++){
         int currentNumber = nums[i];
         int complement = target - currentNumber;
-        if (map.contains(complement)) {
-            std::vector<int> returnTuple{ i, map[complement]};
-            return returnTuple;
+        std::map<int, int>::iterator complementFound = map.find(complement);
+        if (complementFound != map.end()) {
+            return {complementFound->second, i};
         }
         map.insert({currentNumber, i});
     }
-    std::vector<int> returnTuple{ 0, 0};
-    return returnTuple;
+    return { 0, 0};
 }
 
 int main(int argc, const char * argv[]) {

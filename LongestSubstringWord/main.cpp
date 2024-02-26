@@ -18,13 +18,14 @@ int lengthOfLongestSubstring(std::string s) {
         char c = s[i];
         std::map<char, int>::iterator indexFound = map.find(c);
         if(indexFound!=map.end() && initIndex<=(indexFound->second+1)){
+            if(repeats>maxRepeats) maxRepeats = repeats;
             initIndex = indexFound->second+1;
             repeats = i - initIndex;
         }
         map.insert_or_assign(c, i);
         repeats++;
-        if(repeats>maxRepeats) maxRepeats = repeats;
     }
+    if(repeats>maxRepeats) maxRepeats = repeats;
     return maxRepeats;
 }
 
