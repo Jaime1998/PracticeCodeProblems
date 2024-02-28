@@ -1377,5 +1377,1186 @@
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCE78494-0C32-4EEC-AA27-F45618CC6D11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZigzagConversion/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "convert(s, numRows)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "CCE78494-0C32-4EEC-AA27-F45618CC6D11 - 6ed873ed9af1b772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "CCE78494-0C32-4EEC-AA27-F45618CC6D11 - 6ed873ed9af1b751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "CCE78494-0C32-4EEC-AA27-F45618CC6D11 - 6ed873ed9af1b793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "895817A3-9E3E-44B0-875C-CA69C7DDD83B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZigzagConversion/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "convert(s, numRows)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "895817A3-9E3E-44B0-875C-CA69C7DDD83B - 6ed873ed9af1b793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "895817A3-9E3E-44B0-875C-CA69C7DDD83B - 6ed873ed9af1b772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "895817A3-9E3E-44B0-875C-CA69C7DDD83B - 6ed873ed9af1b7cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "129FA3B1-5B0B-4C59-AEEE-898435CD731D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZigzagConversion/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "convert(s, numRows)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "129FA3B1-5B0B-4C59-AEEE-898435CD731D - 6ed873ed9af1b717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "129FA3B1-5B0B-4C59-AEEE-898435CD731D - 6ed873ed9af1b751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "convert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "ZigzagConversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ZigzagConversion/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A5705AD-A7E7-4702-AA1C-375A47F146A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4A5705AD-A7E7-4702-AA1C-375A47F146A3 - 48820e2d8cf8e891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "4A5705AD-A7E7-4702-AA1C-375A47F146A3 - 48820e2d8cf8e891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "4A5705AD-A7E7-4702-AA1C-375A47F146A3 - 48820e2d8cf8e8b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "4A5705AD-A7E7-4702-AA1C-375A47F146A3 - 48820e2d8cf8e8b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4632B072-9F1B-4B63-80B4-C26F8C1C61EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4632B072-9F1B-4B63-80B4-C26F8C1C61EE - 48820e2d8cf8e8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "4632B072-9F1B-4B63-80B4-C26F8C1C61EE - 48820e2d8cf8e8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "4632B072-9F1B-4B63-80B4-C26F8C1C61EE - 48820e2d8cf8e891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "4632B072-9F1B-4B63-80B4-C26F8C1C61EE - 48820e2d8cf8e891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D028620F-D894-4F2B-ABD5-419A2D3B56BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD3FFB1E-96B8-4B94-B856-184EE8A94141"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "CD3FFB1E-96B8-4B94-B856-184EE8A94141 - 48820e2d8cf8e9b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "CD3FFB1E-96B8-4B94-B856-184EE8A94141 - 48820e2d8cf8e9b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "CD3FFB1E-96B8-4B94-B856-184EE8A94141 - 48820e2d8cf8e9b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "CD3FFB1E-96B8-4B94-B856-184EE8A94141 - 48820e2d8cf8e85f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "CD3FFB1E-96B8-4B94-B856-184EE8A94141 - 48820e2d8cf8e9fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5539FFED-9F67-4FAD-AD2B-9810CF1083C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "5539FFED-9F67-4FAD-AD2B-9810CF1083C6 - 48820e2d8cf8e9db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "5539FFED-9F67-4FAD-AD2B-9810CF1083C6 - 48820e2d8cf8e9db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "5539FFED-9F67-4FAD-AD2B-9810CF1083C6 - 48820e2d8cf8e9fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "5539FFED-9F67-4FAD-AD2B-9810CF1083C6 - 48820e2d8cf8e965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19BE92C2-9093-4262-B23F-C9922FED37A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "19BE92C2-9093-4262-B23F-C9922FED37A9 - 48820e2d8cf8e9fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "19BE92C2-9093-4262-B23F-C9922FED37A9 - 48820e2d8cf8e9fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "19BE92C2-9093-4262-B23F-C9922FED37A9 - 48820e2d8cf8e999"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "19BE92C2-9093-4262-B23F-C9922FED37A9 - 48820e2d8cf8e904"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23BE9415-439B-41A4-9DEF-DB1E902F7D8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "23BE9415-439B-41A4-9DEF-DB1E902F7D8A - 48820e2d8cf8e904"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "23BE9415-439B-41A4-9DEF-DB1E902F7D8A - 48820e2d8cf8e904"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "23BE9415-439B-41A4-9DEF-DB1E902F7D8A - 48820e2d8cf8e9db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "23BE9415-439B-41A4-9DEF-DB1E902F7D8A - 48820e2d8cf8e946"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "23BE9415-439B-41A4-9DEF-DB1E902F7D8A - 48820e2d8cf8eaa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "23BE9415-439B-41A4-9DEF-DB1E902F7D8A - 48820e2d8cf8eaa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02E43289-6695-4732-913D-AADDA0146EAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C451869E-F1F4-4806-B193-7099700101C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C451869E-F1F4-4806-B193-7099700101C7 - 48820e2d8cf8ef89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C451869E-F1F4-4806-B193-7099700101C7 - 48820e2d8cf8ef89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BADFFBF7-DC66-4197-BBAD-E138117FF6A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "BADFFBF7-DC66-4197-BBAD-E138117FF6A7 - 48820e2d8cf8efea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "BADFFBF7-DC66-4197-BBAD-E138117FF6A7 - 48820e2d8cf8efea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0500860-A0E1-49FA-A977-11BFE2C65FFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A0500860-A0E1-49FA-A977-11BFE2C65FFC - 48820e2d8cf8ef34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "A0500860-A0E1-49FA-A977-11BFE2C65FFC - 48820e2d8cf8ef34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BE59083-538B-4CB6-8FCB-F289B13C4C2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringToInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "myAtoi(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "3BE59083-538B-4CB6-8FCB-F289B13C4C2A - 48820e2d8cf8eaa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "3BE59083-538B-4CB6-8FCB-F289B13C4C2A - 48820e2d8cf8ea80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "3BE59083-538B-4CB6-8FCB-F289B13C4C2A - 48820e2d8cf8ea80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAtoi(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "StringToInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/StringToInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D028426F-0CC3-49D0-ADAA-AEC8BF0550B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindButtomLeftTreeValue/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "findBottomLeftValue(root)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D028426F-0CC3-49D0-ADAA-AEC8BF0550B6 - 7fbb219adc9823c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "D028426F-0CC3-49D0-ADAA-AEC8BF0550B6 - 7fbb219adc9823c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "168C6E74-5DFD-4481-9DB5-10C18708AD68"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindButtomLeftTreeValue/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "findBottomLeftValue(root)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "168C6E74-5DFD-4481-9DB5-10C18708AD68 - 7fbb219adc9822ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "168C6E74-5DFD-4481-9DB5-10C18708AD68 - 7fbb219adc9822ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "884053CC-CBDA-40B9-AEA4-829CF0190665"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindButtomLeftTreeValue/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "findBottomLeftValue(root)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "884053CC-CBDA-40B9-AEA4-829CF0190665 - 7fbb219adc982382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "884053CC-CBDA-40B9-AEA4-829CF0190665 - 7fbb219adc982382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A024AC9C-8C56-4DE0-A728-528952CAA989"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindButtomLeftTreeValue/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "findBottomLeftValue(root)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A024AC9C-8C56-4DE0-A728-528952CAA989 - 7fbb219adc982240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "A024AC9C-8C56-4DE0-A728-528952CAA989 - 7fbb219adc982240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1B56B98-1599-4953-B83A-D4BD02C4B4B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindButtomLeftTreeValue/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "findBottomLeftValue(root)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F1B56B98-1599-4953-B83A-D4BD02C4B4B0 - 7fbb219adc98220e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "F1B56B98-1599-4953-B83A-D4BD02C4B4B0 - 7fbb219adc98220e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "F1B56B98-1599-4953-B83A-D4BD02C4B4B0 - 7fbb219adc98220e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findBottomLeftValue(TreeNode*)"
+                  moduleName = "FindButtomLeftTreeValue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/FindButtomLeftTreeValue/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
