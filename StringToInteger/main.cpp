@@ -35,24 +35,24 @@ int myAtoi(std::string s) {
     int num = s[i]-48;
     if(num >= 0 && num<=9){
         output = num;
-        if(!positive){
-            output = num*(-1);
-        }
+        if(!positive) output = output*(-1);
         i++;
     } else return 0;
     const int overflow = pow(2,31)-1;
     const int underflow = pow(2,31) * (-1);
+    int newOutput = 0;
     for(; i<n; i++){
         int num = s[i]-48;
         if(num >= 0 && num<=9){
-            if(positive && output > (overflow-num)/10) return overflow;
-            double left = underflow/10-num/10;
-            if(!positive && output < (left)) return underflow;
-            if(positive){
-                output = output*10+num;
-            }else{
-                output = output*10-num;
+            if(positive && (output > (overflow-num)/10)){
+                return overflow;
             }
+            if(!positive && (output < (underflow+num)/10)){
+                return underflow;
+            }
+            
+                newOutput = (positive)? output*10+num: output*10-num;
+            output = newOutput;
         } else return output;
     }
     return output;
@@ -60,6 +60,6 @@ int myAtoi(std::string s) {
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << myAtoi("-2147483649");
+    std::cout << myAtoi("-214748");
     return 0;
 }
