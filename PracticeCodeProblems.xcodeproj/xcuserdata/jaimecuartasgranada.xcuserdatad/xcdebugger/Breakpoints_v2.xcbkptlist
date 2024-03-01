@@ -2659,5 +2659,291 @@
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD2D299B-C004-44BC-B247-3A8B2E9909D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "BD2D299B-C004-44BC-B247-3A8B2E9909D8 - 6897e682d8cb2aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "BD2D299B-C004-44BC-B247-3A8B2E9909D8 - 6897e682d8cb2aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "BD2D299B-C004-44BC-B247-3A8B2E9909D8 - 6897e682d8cb2be3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "BD2D299B-C004-44BC-B247-3A8B2E9909D8 - 6897e682d8cb2cb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAF9528B-4F59-4F75-8DB8-9C51ACF67189"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EAF9528B-4F59-4F75-8DB8-9C51ACF67189 - 6897e682d8cb2be3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "EAF9528B-4F59-4F75-8DB8-9C51ACF67189 - 6897e682d8cb2c7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F644993-BD6B-4FBC-BF62-728E4368F4C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9F644993-BD6B-4FBC-BF62-728E4368F4C6 - 6897e682d8cb2b80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "9F644993-BD6B-4FBC-BF62-728E4368F4C6 - 6897e682d8cb2b67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E7D136F-35EA-4D05-9CED-1805CB7E3332"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1E7D136F-35EA-4D05-9CED-1805CB7E3332 - 6897e682d8cb2b46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "1E7D136F-35EA-4D05-9CED-1805CB7E3332 - 6897e682d8cb2b25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reverse(int)"
+                  moduleName = "ReverseInteger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/ReverseInteger/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8614528D-3D17-487A-B847-D90A281222A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99902732-824A-4FA9-8271-BE49F8708E30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2C9860D-0CC4-4B0D-B5E6-17330FAB566B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24925BF4-BC55-4D01-BCB8-0A1BE4D2762F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseInteger/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "reverse(x)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
