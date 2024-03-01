@@ -149,6 +149,7 @@
 		5E1A91322B91986C00973DA7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5E1A91372B91A90400973DA7 /* ReverseInteger */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ReverseInteger; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E1A91392B91A90400973DA7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5E1A913E2B91B24700973DA7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5E5034C32B906D090026A7A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5E5034C82B906DAB0026A7A2 /* EvenOddTree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EvenOddTree; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E5034CA2B906DAB0026A7A2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -294,6 +295,7 @@
 			isa = PBXGroup;
 			children = (
 				5E1A91392B91A90400973DA7 /* main.cpp */,
+				5E1A913E2B91B24700973DA7 /* README.md */,
 			);
 			path = ReverseInteger;
 			sourceTree = "<group>";
