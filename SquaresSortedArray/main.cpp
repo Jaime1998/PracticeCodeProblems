@@ -7,36 +7,21 @@
 
 #include <iostream>
 
-std::vector<int> mergeSorted(std::vector<int>& nums1, std::vector<int>& nums2){
-    std::vector<int> output;
-    int n1 = static_cast<int>(nums1.size());
-    int n2 = static_cast<int>(nums2.size());
-    int i = n1-1 ,j = 0;
-    while(i>=0 && j<n2){
-        if(nums1[i] < nums2[j]) output.push_back(nums1[i--]);
-        else output.push_back(nums2[j++]);
-    }
-    while (i>=0) output.push_back(nums1[i--]);
-    while (j<n2) output.push_back(nums2[j++]);
-    return output;
-}
-
-
 std::vector<int> sortedSquares(std::vector<int>& nums) {
-    std::vector<int> output1;
-    std::vector<int> output2;
-    size_t n = nums.size();
-    int i=0;
-    while(i<n){
-        if(nums[i]>=0) break;
-        output1.push_back(nums[i]*nums[i]);
-        i++;
+    int n = static_cast<int>(nums.size());
+    int start = 0, end = n-1;
+    std::vector<int> output(n);
+    int i=n-1;
+    while(start<=end){
+        if(abs(nums[start])>abs(nums[end])){
+            output[i--] = nums[start]*nums[start];
+            start++;
+        }else{
+            output[i--] = nums[end]*nums[end];
+            end--;
+        }
     }
-    while(i<n){
-        output2.push_back(nums[i]*nums[i]);
-        i++;
-    }
-    return mergeSorted(output1, output2);
+    return output;
 }
 
 int main(int argc, const char * argv[]) {
@@ -52,6 +37,5 @@ int main(int argc, const char * argv[]) {
     for(int i=0; i<output.size(); i++){
         std::cout << output[i]<<", ";
     }
-    std::cout << "Hello, World!\n";
     return 0;
 }

@@ -3317,14 +3317,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "D7F2EA40-3605-4024-8278-098A345E763E"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SquaresSortedArray/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "main(argc, argv)"
             landmarkType = "9">
             <Locations>
@@ -3364,15 +3364,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "4A9D423B-EFB8-4D79-9858-6D13A2328541"
+            uuid = "62A00B9E-5D44-4376-AE7E-710AA637A2C7"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SquaresSortedArray/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "sortedSquares(nums)"
             landmarkType = "9">
          </BreakpointContent>
@@ -3380,15 +3380,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "755A9EA5-0F9A-4EDE-98CE-B05600D35E80"
+            uuid = "64F2A6CF-3F42-4412-A751-DC77053A713D"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SquaresSortedArray/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
             landmarkName = "sortedSquares(nums)"
             landmarkType = "9">
          </BreakpointContent>
@@ -3396,15 +3396,31 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3DDE2785-7AA5-4CC8-8DD3-AC95D683D5D7"
+            uuid = "1E01CADA-E043-41E9-BE08-5190E4DCD883"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SquaresSortedArray/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "sortedSquares(nums)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCF031F7-4343-4194-A950-408BEF4094BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SquaresSortedArray/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
             landmarkName = "sortedSquares(nums)"
             landmarkType = "9">
          </BreakpointContent>
