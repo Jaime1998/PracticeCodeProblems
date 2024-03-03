@@ -10,55 +10,43 @@
 
 std::string removeDuplicateLetters(std::string s) {
     const size_t n = static_cast<size_t>(s.size());
-    
+    if(n==0) return "";
+    if(n==1) return s;
     const size_t nLetter = 26;
-    int startIndex = 0;
-    int endIndex = 0;
-    std::vector<std::vector<int>> weight;
-    for(int i=0; i<n; i++){
-        std::vector<int> vectorI;
-        vectorI.push_back(INT_MAX);
-        weight.push_back(vectorI);
-    }
-    int minWeight = INT_MAX;
-    int lenght = 1;
     int alphabet[nLetter] = {};
-    if(n==2) return s.substr(startIndex, endIndex);
-    
+    std::vector<std::string> maxSubstring(n);
+    int startIndex = 0;
     for(int i=0; i<n; i++){
-        startIndex = i;
-        for(int j=i; j<n-1; j++){
+        for(int j=i; j<n; j++){
             int previousIndex = alphabet[s[j]-'a'];
-            if(previousIndex<j && previousIndex>startIndex) break;
-            weight[i].push_back((j==0)?s[j]:(weight[i][j-i-1]*nLetter+s[j]));
-            alphabet[s[j]-'a']=j;
+            if(previousIndex<j && previousIndex>i) break;
+            maxSubstring[i] += s[j];
+            alphabet[s[j]-'a']=j+1;
         }
     }
-    
-    for(int i=0; i<n; i++){
-        for(int j=0; j<weight[i].size(); j++){
-            if((i-j)>lenght && weight[i][j]<minWeight){
-                minWeight=weight[i][j];
-                startIndex=i;
-                endIndex=j;
-            }
+    std::string maxString = "";
+    int maxLength = 0;
+    for(std::string c: maxSubstring){
+        
+        if(c.size()>maxLength){
+            maxString = c;
+            maxLength = static_cast<int>(c.size());
         }
+        if(c.size()<maxLength) continue;
+        if(c.compare(maxString) == -1) {
+            maxString = c;
+        }
+        
+        
     }
-    
-    
-    for(int i=0; i<nLetter; i++){
-        std::cout << alphabet[i] << "\n";
-    }
-    for(int i=0; i<n; i++){
-        std::cout << s[i] << "\n";
-    }
-    return s.substr(startIndex,endIndex);
-    
+    return maxString;
 }
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     
-    std::cout << removeDuplicateLetters("bcabc");
+    std::cout << removeDuplicateLetters("cbacdcbc");
+    std::string s1 = "bcaccgyih";
+    std::cout << s1.compare("bcabc");
     return 0;
 }

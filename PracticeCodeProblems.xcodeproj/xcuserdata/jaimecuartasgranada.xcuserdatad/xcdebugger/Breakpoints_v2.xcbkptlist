@@ -2948,374 +2948,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "221E63C8-D562-4DE3-8A84-3CF55625617E"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "221E63C8-D562-4DE3-8A84-3CF55625617E - 2d232d2e79987d63"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "372">
-               </Location>
-               <Location
-                  uuid = "221E63C8-D562-4DE3-8A84-3CF55625617E - 2d232d2e79987d63"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "324">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "09D224A3-5057-4DA6-B4BC-D4C82FF98C57"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "09D224A3-5057-4DA6-B4BC-D4C82FF98C57 - 2d232d2e79987ce7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32"
-                  offsetFromSymbolStart = "492">
-               </Location>
-               <Location
-                  uuid = "09D224A3-5057-4DA6-B4BC-D4C82FF98C57 - 2d232d2e79987ce7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32"
-                  offsetFromSymbolStart = "436">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "08EE545C-3298-4333-8306-E083386609A1"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "08EE545C-3298-4333-8306-E083386609A1 - 2d232d2e79987ca5"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "504">
-               </Location>
-               <Location
-                  uuid = "08EE545C-3298-4333-8306-E083386609A1 - 2d232d2e79987ca5"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "668">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E888EB39-509F-4393-A9D0-335B00DB144D"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "E888EB39-509F-4393-A9D0-335B00DB144D - 2d232d2e79987a95"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "84">
-               </Location>
-               <Location
-                  uuid = "E888EB39-509F-4393-A9D0-335B00DB144D - 2d232d2e79987a95"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "96">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EE6AC219-034B-4911-B68E-99FE3301F0CA"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "EE6AC219-034B-4911-B68E-99FE3301F0CA - 2d232d2e79987c39"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "38"
-                  endingLineNumber = "38"
-                  offsetFromSymbolStart = "636">
-               </Location>
-               <Location
-                  uuid = "EE6AC219-034B-4911-B68E-99FE3301F0CA - 2d232d2e79987c39"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "38"
-                  endingLineNumber = "38"
-                  offsetFromSymbolStart = "744">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "42120C04-B557-437E-8BB9-729945326A73"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "42120C04-B557-437E-8BB9-729945326A73 - 2d232d2e79987fff"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
-                  offsetFromSymbolStart = "692">
-               </Location>
-               <Location
-                  uuid = "42120C04-B557-437E-8BB9-729945326A73 - 2d232d2e79987fff"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
-                  offsetFromSymbolStart = "828">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "42142B7F-47AF-44F9-8A97-8CDF4ABD85DA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "41363771-392D-4C44-992C-23842215A55C"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "AFAF6771-A252-4152-9DC5-C5839D68209A"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RemoveDuplicateLetters/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
-            landmarkName = "removeDuplicateLetters(s)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "AFAF6771-A252-4152-9DC5-C5839D68209A - 2d232d2e79987f5c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43"
-                  offsetFromSymbolStart = "932">
-               </Location>
-               <Location
-                  uuid = "AFAF6771-A252-4152-9DC5-C5839D68209A - 2d232d2e79987f5c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
-                  moduleName = "RemoveDuplicateLetters"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43"
-                  offsetFromSymbolStart = "940">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "D7F2EA40-3605-4024-8278-098A345E763E"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -3423,6 +3055,718 @@
             endingLineNumber = "15"
             landmarkName = "sortedSquares(nums)"
             landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8F1F586-F140-473D-8075-549C9301B8CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E8F1F586-F140-473D-8075-549C9301B8CA - 2d232d2e79987cc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "E8F1F586-F140-473D-8075-549C9301B8CA - 2d232d2e79987cc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "E8F1F586-F140-473D-8075-549C9301B8CA - 2d232d2e79987cc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "E8F1F586-F140-473D-8075-549C9301B8CA - 2d232d2e79987d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "E8F1F586-F140-473D-8075-549C9301B8CA - 2d232d2e79987c44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "E8F1F586-F140-473D-8075-549C9301B8CA - 2d232d2e79987fbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2834B445-0614-41BF-B6D1-91999618A8C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2834B445-0614-41BF-B6D1-91999618A8C6 - 2d232d2e79987d4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "2834B445-0614-41BF-B6D1-91999618A8C6 - 2d232d2e79987d4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "078B4AD5-9F9D-4EAD-8934-45E03EF64B37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "078B4AD5-9F9D-4EAD-8934-45E03EF64B37 - 2d232d2e79987d8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "078B4AD5-9F9D-4EAD-8934-45E03EF64B37 - 2d232d2e79987d8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0C5DB83-DAC9-4374-8DE9-5109EA00952B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B0C5DB83-DAC9-4374-8DE9-5109EA00952B - 2d232d2e79987d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "B0C5DB83-DAC9-4374-8DE9-5109EA00952B - 2d232d2e79987f9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA40BAB6-899E-497A-9773-4EDA9C38D24E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F90E4ED0-6CBA-45A9-82FD-E52B28B2B515"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B5320BC-7066-4FB6-B7ED-A3D905DE1F74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4B5320BC-7066-4FB6-B7ED-A3D905DE1F74 - 2d232d2e79987d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "4B5320BC-7066-4FB6-B7ED-A3D905DE1F74 - 2d232d2e79987d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeDuplicateLetters(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "RemoveDuplicateLetters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveDuplicateLetters/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC0F19EF-36F1-47CB-A508-1EBC5774199D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBF3765A-807C-440C-B7AA-37CE490115C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveDuplicateLetters/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "removeDuplicateLetters(s)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B871CB39-7FDF-457B-98B6-57AB7215345B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveNthNodeEndList/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "removeNthFromEnd(head, n)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B871CB39-7FDF-457B-98B6-57AB7215345B - 8d8d83623c7a95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "B871CB39-7FDF-457B-98B6-57AB7215345B - 8d8d83623c7a95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B871CB39-7FDF-457B-98B6-57AB7215345B - 8d8d83623c7a97c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36E857CA-F292-475E-AD97-0347773405AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveNthNodeEndList/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "36E857CA-F292-475E-AD97-0347773405AA - c06b7c6be9274219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "36E857CA-F292-475E-AD97-0347773405AA - c06b7c6be9274278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "36E857CA-F292-475E-AD97-0347773405AA - c06b7c6be927423a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55606E43-E98B-4781-872E-BCF78D8D1435"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveNthNodeEndList/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "55606E43-E98B-4781-872E-BCF78D8D1435 - c06b7c6be92742be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "55606E43-E98B-4781-872E-BCF78D8D1435 - c06b7c6be92742be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "55606E43-E98B-4781-872E-BCF78D8D1435 - c06b7c6be9274278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C606E295-2A64-49B2-B905-ECFF7A0B54CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveNthNodeEndList/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "removeNthFromEnd(head, n)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C606E295-2A64-49B2-B905-ECFF7A0B54CC - 8d8d83623c7a6f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "C606E295-2A64-49B2-B905-ECFF7A0B54CC - 8d8d83623c7a6f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "C606E295-2A64-49B2-B905-ECFF7A0B54CC - 8d8d83623c7a617"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDD466E4-5EEF-4AEE-86B1-CCDE1EAE4A13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveNthNodeEndList/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "removeNthFromEnd(head, n)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "DDD466E4-5EEF-4AEE-86B1-CCDE1EAE4A13 - 8d8d83623c7a636"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "DDD466E4-5EEF-4AEE-86B1-CCDE1EAE4A13 - 8d8d83623c7a655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4F78E07-1A7B-4AEC-995B-B6E8A00476DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoveNthNodeEndList/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "removeNthFromEnd(head, n)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E4F78E07-1A7B-4AEC-995B-B6E8A00476DC - 8d8d83623c7a617"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "E4F78E07-1A7B-4AEC-995B-B6E8A00476DC - 8d8d83623c7a636"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "removeNthFromEnd(ListNode*, int)"
+                  moduleName = "RemoveNthNodeEndList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimecuartasgranada/Documents/PracticeCodeProblems/PracticeCodeProblems/RemoveNthNodeEndList/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
