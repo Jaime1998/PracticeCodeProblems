@@ -15,12 +15,13 @@ struct ListNode {
 };
 
 bool hasCycle(ListNode *head) {
-    std::set<ListNode*> setNodes;
     if(head==nullptr) return false;
-    while(head!=nullptr){
-        if(setNodes.contains(head)) return true;
-        setNodes.insert(head);
-        head = head->next;
+    ListNode *slow = head;
+    ListNode *fast = head->next;
+    while(fast!=nullptr && fast->next!=nullptr){
+        slow = slow->next;
+        fast = fast->next->next;
+        if(slow==fast) return true;
     }
     return false;
 }
