@@ -25,6 +25,7 @@
 		5E5D39752B95B25900172D8D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E5D39742B95B25900172D8D /* main.cpp */; };
 		5E6EEF4A2B8F13500001A07B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E6EEF492B8F13500001A07B /* main.cpp */; };
 		5E74343F2B91EFC00051C692 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E74343E2B91EFC00051C692 /* main.cpp */; };
+		5E93B46F2BA1D5C900B25DA0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E93B46E2BA1D5C900B25DA0 /* main.cpp */; };
 		5EAEBD242B8B41B200CEC579 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EAEBD232B8B41B200CEC579 /* main.cpp */; };
 		5EAEBD292B8B46E000CEC579 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EAEBD232B8B41B200CEC579 /* main.cpp */; };
 		5EAEBD362B8B503500CEC579 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EAEBD352B8B503500CEC579 /* main.cpp */; };
@@ -199,6 +200,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		5E93B46A2BA1D5C900B25DA0 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		5EAEBD1F2B8B41B200CEC579 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -329,6 +339,9 @@
 		5E74343C2B91EFC00051C692 /* RemoveDuplicateLetters */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RemoveDuplicateLetters; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E74343E2B91EFC00051C692 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5E7434432B91EFE10051C692 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5E93B46C2BA1D5C900B25DA0 /* FindPivotInteger */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FindPivotInteger; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E93B46E2BA1D5C900B25DA0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5E93B4732BA1D5D600B25DA0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5EAEBD212B8B41B200CEC579 /* TwoSum */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TwoSum; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EAEBD232B8B41B200CEC579 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5EAEBD2B2B8B4C1900CEC579 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
@@ -477,6 +490,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		5E7434392B91EFC00051C692 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E93B4692BA1D5C900B25DA0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -704,6 +724,15 @@
 			path = RemoveDuplicateLetters;
 			sourceTree = "<group>";
 		};
+		5E93B46D2BA1D5C900B25DA0 /* FindPivotInteger */ = {
+			isa = PBXGroup;
+			children = (
+				5E93B46E2BA1D5C900B25DA0 /* main.cpp */,
+				5E93B4732BA1D5D600B25DA0 /* README.md */,
+			);
+			path = FindPivotInteger;
+			sourceTree = "<group>";
+		};
 		5EAEBD222B8B41B200CEC579 /* TwoSum */ = {
 			isa = PBXGroup;
 			children = (
@@ -789,6 +818,7 @@
 				5E33C7792B9DE32E00E4A4DA /* InsertionTwoArrays */,
 				5ED72AE82B9F174100627043 /* CustomSortString */,
 				5E0E81362BA05C5200D4CBAE /* RemoveZeroSumConsecutiveNodesLinkedList */,
+				5E93B46D2BA1D5C900B25DA0 /* FindPivotInteger */,
 				5ED68F422B8B0F5500FA667C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -822,6 +852,7 @@
 				5E33C7782B9DE32E00E4A4DA /* InsertionTwoArrays */,
 				5ED72AE72B9F174100627043 /* CustomSortString */,
 				5E0E81352BA05C5200D4CBAE /* RemoveZeroSumConsecutiveNodesLinkedList */,
+				5E93B46C2BA1D5C900B25DA0 /* FindPivotInteger */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1153,6 +1184,23 @@
 			productReference = 5E74343C2B91EFC00051C692 /* RemoveDuplicateLetters */;
 			productType = "com.apple.product-type.tool";
 		};
+		5E93B46B2BA1D5C900B25DA0 /* FindPivotInteger */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E93B4722BA1D5C900B25DA0 /* Build configuration list for PBXNativeTarget "FindPivotInteger" */;
+			buildPhases = (
+				5E93B4682BA1D5C900B25DA0 /* Sources */,
+				5E93B4692BA1D5C900B25DA0 /* Frameworks */,
+				5E93B46A2BA1D5C900B25DA0 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FindPivotInteger;
+			productName = FindPivotInteger;
+			productReference = 5E93B46C2BA1D5C900B25DA0 /* FindPivotInteger */;
+			productType = "com.apple.product-type.tool";
+		};
 		5EAEBD202B8B41B200CEC579 /* TwoSum */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5EAEBD272B8B41B200CEC579 /* Build configuration list for PBXNativeTarget "TwoSum" */;
@@ -1352,6 +1400,9 @@
 					5E74343B2B91EFC00051C692 = {
 						CreatedOnToolsVersion = 15.2;
 					};
+					5E93B46B2BA1D5C900B25DA0 = {
+						CreatedOnToolsVersion = 15.3;
+					};
 					5EAEBD202B8B41B200CEC579 = {
 						CreatedOnToolsVersion = 15.2;
 					};
@@ -1417,6 +1468,7 @@
 				5E33C7772B9DE32E00E4A4DA /* InsertionTwoArrays */,
 				5ED72AE62B9F174100627043 /* CustomSortString */,
 				5E0E81342BA05C5200D4CBAE /* RemoveZeroSumConsecutiveNodesLinkedList */,
+				5E93B46B2BA1D5C900B25DA0 /* FindPivotInteger */,
 			);
 		};
 /* End PBXProject section */
@@ -1563,6 +1615,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E74343F2B91EFC00051C692 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E93B4682BA1D5C900B25DA0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5E93B46F2BA1D5C900B25DA0 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1920,6 +1980,24 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5E93B4702BA1D5C900B25DA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 14.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5E93B4712BA1D5C900B25DA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 14.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -2328,6 +2406,15 @@
 			buildConfigurations = (
 				5E7434402B91EFC00051C692 /* Debug */,
 				5E7434412B91EFC00051C692 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E93B4722BA1D5C900B25DA0 /* Build configuration list for PBXNativeTarget "FindPivotInteger" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E93B4702BA1D5C900B25DA0 /* Debug */,
+				5E93B4712BA1D5C900B25DA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
