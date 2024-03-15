@@ -57,7 +57,6 @@ int numSubarraysWithSum(std::vector<int>& nums, int goal) {
 }
 
 int numSubarraysWithSum2(std::vector<int>& nums, int goal) {
-    int n = static_cast<int>(nums.size());
     int sum = 0, count = 0;
     std::unordered_map<int, int> prevSums;
     prevSums[0] = 1;
