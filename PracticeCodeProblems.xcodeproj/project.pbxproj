@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5E0B50542B98420800D5538F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E0B50532B98420800D5538F /* main.cpp */; };
 		5E0E81382BA05C5200D4CBAE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E0E81372BA05C5200D4CBAE /* main.cpp */; };
+		5E12525A2BA70203005D6FD6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E1252592BA70203005D6FD6 /* main.cpp */; };
 		5E1A912E2B91984B00973DA7 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A912D2B91984B00973DA7 /* main.cpp */; };
 		5E1A913A2B91A90400973DA7 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A91392B91A90400973DA7 /* main.cpp */; };
 		5E1E94D12B949E530023271D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E1E94D02B949E530023271D /* main.cpp */; };
@@ -51,6 +52,15 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		5E0E81332BA05C5200D4CBAE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5E1252552BA70203005D6FD6 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -320,6 +330,9 @@
 		5E0E81352BA05C5200D4CBAE /* RemoveZeroSumConsecutiveNodesLinkedList */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RemoveZeroSumConsecutiveNodesLinkedList; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E0E81372BA05C5200D4CBAE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5E0E813C2BA05C7100D4CBAE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5E1252572BA70203005D6FD6 /* InsertInterval */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = InsertInterval; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E1252592BA70203005D6FD6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5E12525E2BA70228005D6FD6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5E1A912B2B91984B00973DA7 /* MaximumOddBinaryNumber */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MaximumOddBinaryNumber; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E1A912D2B91984B00973DA7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5E1A91322B91986C00973DA7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -417,6 +430,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		5E0E81322BA05C5200D4CBAE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E1252542BA70203005D6FD6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -638,6 +658,15 @@
 				5E0E813C2BA05C7100D4CBAE /* README.md */,
 			);
 			path = RemoveZeroSumConsecutiveNodesLinkedList;
+			sourceTree = "<group>";
+		};
+		5E1252582BA70203005D6FD6 /* InsertInterval */ = {
+			isa = PBXGroup;
+			children = (
+				5E1252592BA70203005D6FD6 /* main.cpp */,
+				5E12525E2BA70228005D6FD6 /* README.md */,
+			);
+			path = InsertInterval;
 			sourceTree = "<group>";
 		};
 		5E1A912C2B91984B00973DA7 /* MaximumOddBinaryNumber */ = {
@@ -909,6 +938,7 @@
 				5E29BD062BA3039B00C336BF /* BinarySubarrayWithSum */,
 				5E8AE9A52BA47A5900753E84 /* ProductArrayExceptItself */,
 				5ECEF93A2BA5DFCA00758D6F /* ContiguousArray */,
+				5E1252582BA70203005D6FD6 /* InsertInterval */,
 				5ED68F422B8B0F5500FA667C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -946,6 +976,7 @@
 				5E29BD052BA3039B00C336BF /* BinarySubarrayWithSum */,
 				5E8AE9A42BA47A5900753E84 /* ProductArrayExceptItself */,
 				5ECEF9392BA5DFCA00758D6F /* ContiguousArray */,
+				5E1252572BA70203005D6FD6 /* InsertInterval */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1003,6 +1034,23 @@
 			name = RemoveZeroSumConsecutiveNodesLinkedList;
 			productName = RemoveZeroSumConsecutiveNodesLinkedList;
 			productReference = 5E0E81352BA05C5200D4CBAE /* RemoveZeroSumConsecutiveNodesLinkedList */;
+			productType = "com.apple.product-type.tool";
+		};
+		5E1252562BA70203005D6FD6 /* InsertInterval */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E12525D2BA70203005D6FD6 /* Build configuration list for PBXNativeTarget "InsertInterval" */;
+			buildPhases = (
+				5E1252532BA70203005D6FD6 /* Sources */,
+				5E1252542BA70203005D6FD6 /* Frameworks */,
+				5E1252552BA70203005D6FD6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = InsertInterval;
+			productName = InsertInterval;
+			productReference = 5E1252572BA70203005D6FD6 /* InsertInterval */;
 			productType = "com.apple.product-type.tool";
 		};
 		5E1A912A2B91984B00973DA7 /* MaximumOddBinaryNumber */ = {
@@ -1496,6 +1544,9 @@
 					5E0E81342BA05C5200D4CBAE = {
 						CreatedOnToolsVersion = 15.3;
 					};
+					5E1252562BA70203005D6FD6 = {
+						CreatedOnToolsVersion = 15.3;
+					};
 					5E1A912A2B91984B00973DA7 = {
 						CreatedOnToolsVersion = 15.2;
 					};
@@ -1625,6 +1676,7 @@
 				5E29BD042BA3039B00C336BF /* BinarySubarrayWithSum */,
 				5E8AE9A32BA47A5900753E84 /* ProductArrayExceptItself */,
 				5ECEF9382BA5DFCA00758D6F /* ContiguousArray */,
+				5E1252562BA70203005D6FD6 /* InsertInterval */,
 			);
 		};
 /* End PBXProject section */
@@ -1643,6 +1695,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E0E81382BA05C5200D4CBAE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E1252532BA70203005D6FD6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5E12525A2BA70203005D6FD6 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1904,6 +1964,24 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				MACOSX_DEPLOYMENT_TARGET = 14.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5E12525B2BA70203005D6FD6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 14.4;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5E12525C2BA70203005D6FD6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 14.4;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -2496,6 +2574,15 @@
 			buildConfigurations = (
 				5E0E81392BA05C5200D4CBAE /* Debug */,
 				5E0E813A2BA05C5200D4CBAE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E12525D2BA70203005D6FD6 /* Build configuration list for PBXNativeTarget "InsertInterval" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E12525B2BA70203005D6FD6 /* Debug */,
+				5E12525C2BA70203005D6FD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
