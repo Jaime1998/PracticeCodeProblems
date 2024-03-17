@@ -9,7 +9,7 @@
 #include <vector>
 
 std::vector<int> productExceptSelf(std::vector<int>& nums) {
-    int n = nums.size();
+    int n = static_cast<int>(nums.size());
     std::vector<int> answer(n);
     answer[1] = nums[0];
     for(int i=2; i<n; i++){
