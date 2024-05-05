@@ -20,7 +20,6 @@ void merge(std::vector<int>& nums1, int m, std::vector<int>& nums2, int n) {
         }
         nums1[m+n] = nums2[--n];
     }
-    m--;
 }
 int main(int argc, const char * argv[]) {
     // insert code here...
