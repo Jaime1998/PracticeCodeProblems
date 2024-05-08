@@ -9,6 +9,7 @@
 #include <vector>
 
 void merge(std::vector<int>& nums1, int m, std::vector<int>& nums2, int n) {
+    nums1.insert(nums1.begin()+2, 20);
     while(n>0){
         if(m==0) {
             nums1[n] = nums2[--n];
