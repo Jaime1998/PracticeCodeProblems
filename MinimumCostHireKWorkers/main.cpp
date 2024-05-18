@@ -38,6 +38,8 @@ double mincostToHireWorkers(std::vector<int>& quality, std::vector<int>& wage, i
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::vector<int> v{10,20,5};
+    std::vector<int> v1{70,50,30};
+    mincostToHireWorkers(v,v1,2);
     return 0;
 }
